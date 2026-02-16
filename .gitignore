@@ -1,0 +1,14 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB generated files
+*.mex*
+*.mlappinstall
+
+# Simulink
+*.slxc
+*.slx.r*
+
+# OS generated files
+.DS_Store
+Thumbs.db
