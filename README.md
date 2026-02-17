@@ -12,12 +12,12 @@ Material ranking is performed using normalized multi-criteria decision analysis,
 Problem Statement:
 In early-stage mechanical design, engineers must select materials without complete manufacturing and cost data.
 This tool automates the material selection process by:
-   --> Filtering materials based on safety requirements
-   --> Normalizing material properties to remove unit bias
-   --> Applying weighted scoring
-   --> Ranking materials
-   --> Visualizing results
-   --> Performing sensitivity analysis
+   1. Filtering materials based on safety requirements
+   2. Normalizing material properties to remove unit bias
+   3. Applying weighted scoring
+   4. Ranking materials
+   5. Visualizing results
+   6. Performing sensitivity analysis
 
 Methodology:
 1. Safety Filtering: Materials that do not meet the minimum required yield strength are eliminated.
